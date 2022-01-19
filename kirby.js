@@ -24,7 +24,7 @@ class Kirby {
 		
 		//slowly increment the speed as kirby runs
 		if(this.run) {
-			this.speed += 1.5;
+			this.speed += 5;
 		}
 
 		//reset loop
